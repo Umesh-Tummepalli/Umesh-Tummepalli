@@ -9,9 +9,11 @@
 - 🔒 Aspiring Cybersecurity Enthusiast
 
 ## 💡 Coding Profiles
-[![LeetCode](https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=FFA116)](https://leetcode.com/u/umesh96/)
+[![LeetCode](https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=FFA116)](https://leetcode.com/u/umesh96/)  
+[![GeeksforGeeks](https://img.shields.io/badge/GeeksforGeeks-0F9D58?style=for-the-badge&logo=GeeksforGeeks&logoColor=white)](https://www.geeksforgeeks.org/user/umeshtummu16z/)
 
-## 🛠️ Skills & Technologies
+
+## 🛠️ Skills & Technologies     
 
 ### Languages and Tools:
 <p align="center">
